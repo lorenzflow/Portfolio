@@ -4,9 +4,9 @@ This portfolio contains some applied projects. If you are a recruiter please fee
 ## Clothing
 A comparison of unsupervised and supervised classification algorithms on the Fashion mnist dataset.
 - unsupervised kmeans clustering and knn classification
-- neural network and convolutional neural network with PyTorch
+- neural network and convolutional neural network with *PyTorch*
 
-
+## Links to other projects
 You might also find the following repos interesting:
 - For more theoretical projects on machine learning check my [Machine Learning repository](https://github.com/lorenzflow/MachineLearning)
 - For a project applying statistical modelling techniques to study a drug effect look [here](https://github.com/lorenzflow/Statistical-Modelling)
