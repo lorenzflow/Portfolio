@@ -1,10 +1,15 @@
 # Portfolio
 This portfolio contains some applied projects. If you are a recruiter please feel free to brwose through.
 
-## Clothing
+## Clothing-Classification
 A comparison of unsupervised and supervised classification algorithms on the Fashion mnist dataset.
 - unsupervised kmeans clustering and knn classification
 - neural network and convolutional neural network with *PyTorch*
+
+## Network-Analysis
+Analysis of a citation network.
+- clustering based on features using different similarity metrics
+- network analysis with NetworkX and graph based clustering
 
 ## Links to other projects
 You might also find the following repos interesting:
